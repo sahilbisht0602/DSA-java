@@ -19,6 +19,7 @@ class Binary {
 	        }
 	    }
 	    while(arr[h]<key) {
+	    	//end of an array
 	        if(s==h){
 	            break;
 	        }
