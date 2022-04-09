@@ -5,7 +5,7 @@ import java.io.*;
 class Binary {
 	public static void main (String[] args) {
 		int a[] = {4,6,8,9,10,12,14,17,18,19,22,25,27,30,34}; //infinite array
-		int key = 235;
+		int key = 25;
 		System.out.println(searchInfinite(a,key));
 	}
 	static int searchInfinite(int[] arr,int key) {
