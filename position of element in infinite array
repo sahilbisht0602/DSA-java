@@ -2,7 +2,7 @@
 
 import java.io.*;
 
-class GFG {
+class Binary {
 	public static void main (String[] args) {
 		int a[] = {4,6,8,9,10,12,14,17,18,19,22,25,27,30,34}; //infinite array
 		int key = 235;
